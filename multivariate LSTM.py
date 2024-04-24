@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[61]:
-
+import streamlit as st
 
 from math import sqrt
 from numpy import concatenate
